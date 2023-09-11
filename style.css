@@ -1,0 +1,52 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_songs
+{
+    float: left;
+}
+
+.div_songs_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#songs
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_other
+{
+    float: right;
+}
+
+.div_other_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#other{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+border-radius: 20px;
+border-style: dashed;
+border-color: white;
+}
